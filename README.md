@@ -23,3 +23,9 @@ I'm just sharing them here in case someone finds them useful.
 7. To exit Looking Glass activate the panel and press ESC
 
 _Note: There are also a bunch of useful icons in /usr/share/icons/ you can use. I've just made some that I couldn't find in the Gnome-style_
+
+## Other notes
+
+- I find the icons look best at size 18, so that's what i recommend configuring the extension to use
+
+![image](https://user-images.githubusercontent.com/3295286/204121322-34589ac0-10d4-4ce2-b0df-636a4192b941.png)
