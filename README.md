@@ -5,7 +5,9 @@ Miscellaneous Gnome-style Tray Icons
 
 ## What is this?
 
-Several replacement tray icons I use with the Gnome Extension for [AppIndicator and KStatusNotifierItem Support](https://extensions.gnome.org/extension/615/appindicator-support/)
+Several B&W/monochrome replacement tray icons I use with the Gnome Extension for [AppIndicator and KStatusNotifierItem Support](https://extensions.gnome.org/extension/615/appindicator-support/).
+
+I'm just sharing them here in case someone finds them useful.
 
 ## How to replace tray icons?
 
